@@ -18,5 +18,6 @@ sometimes i do not think about italy
 
 hello world
 
-
+test = input(test)
+print(prcb)
  
